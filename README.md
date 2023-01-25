@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mujtahid3996
-- 👀 I’m interested in Datascience,Web development(node.js,express.js,React etc)
-- 🌱 I’m currently learning Javascript(digging into details of the language)
+- 👀 I’m interested in Web development(node.js,express.js,React etc),test-automation(Cypress, Playwright,selenium)
+- 🌱 I’m currently learning Javascript(digging into details of the language) and working professionally with it 
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me mujtahid2018@gmail.com
 
