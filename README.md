@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mujtahid3996
-- 👀 I’m interested in test-automation( Playwright,selenium), devOps related technologies( Docker, kubernetes, ansible, Terraform, Jenkins) . 
+- 👀 I’m interested in devOps related technologies( Docker, kubernetes, ansible, Terraform, Jenkins) . 
 - 🌱 I’m currently learning and leveraging devops related technologies.
 - 💞️ I’m looking to collaborate on open source projects related to DevOps. 
 - 📫 How to reach me mujtahid2018@gmail.com
